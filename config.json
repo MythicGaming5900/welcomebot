@@ -1,0 +1,28 @@
+{
+    "Important_Information": {
+        "bot_token": "Insert Your Bot Token Here!"
+    },
+
+    "Welcome_Channel_Information": {
+        "welcome_channel_id": "Insert Your Welcome Channel ID Here",
+        "member_count_channel_id": "Insert Your Member Count Channel ID Here.",
+        "join_role_id": "Insert Your Join Role ID Here"
+    },
+
+    "Welcome_Embed_Information": {
+        "embed_title": "This Is The Welcome Embed Title!",
+        "embed_description": "This Is The Embed Description. You can put stuff like: Welcome to the (Your server name)! I hope you enjoy your stay! If you need anything don't forget to ask! ",
+        "embed_color": "#11A923"
+    },
+
+    "Leave_Channel_Information": {
+        "leave_channel_id": "Insert Your Leave Channel ID Here."
+    },
+
+    "Leave_Embed_Information": {
+        "embed_title": "This Is The Leave Embed Title",
+        "embed_description": "This is the leave embed description. You can put stuff like: Sorry To see you leave!",
+        "embed_color": "#93260B"
+    }
+
+}

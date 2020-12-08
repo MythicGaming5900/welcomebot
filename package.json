@@ -1,0 +1,15 @@
+{
+  "name": "welcomebot",
+  "version": "1.0.0",
+  "description": "This Is A Welcome Bot For Discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mythic",
+  "license": "ISC"
+}
